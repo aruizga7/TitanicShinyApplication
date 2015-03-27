@@ -1,4 +1,4 @@
-source("init.R")
+source("init.r")
 library(shiny)
 library(rpart)
 library(rattle)
