@@ -1,10 +1,10 @@
+source("init.R")
 library(shiny)
 library(rpart)
 library(rattle)
 library(rpart.plot)
 library(RColorBrewer)
 library(ggplot2)
-
 source("preprocessTitanicData.R")
 
 
